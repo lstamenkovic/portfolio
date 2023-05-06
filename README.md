@@ -1,2 +1,1 @@
-# portfolio
-Just a redirect to the new location
+# Just a redirect to the new location
