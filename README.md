@@ -1,1 +1,3 @@
-# Just a redirect to the new location
+# DISCLAIMER  
+## I moved this repo to codeberg
+### It redirects to the new location
